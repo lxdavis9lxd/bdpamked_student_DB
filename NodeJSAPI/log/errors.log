@@ -1,0 +1,16 @@
+[0mGET /api/v1/users/?pageNo=1&pageSize=100 [31m500 [0m85.296 ms - 2908[0m
+[0mPOST /api/v1/employees [33m400 [0m18.746 ms - 49[0m
+[0mPOST /api/v1/employees [31m500 [0m66.321 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m56.391 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m69.681 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m58.958 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m89.517 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m87.304 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m62.427 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m45.584 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m46.345 ms - 2943[0m
+[0mPOST /api/v1/employees [31m500 [0m27.423 ms - 1643[0m
+[0mPOST /api/v1/employees [31m500 [0m3.467 ms - 1643[0m
+[0mPOST /api/v1/employees [31m500 [0m2.091 ms - 1643[0m
+[0mPOST /api/v1/employees [31m500 [0m20.327 ms - 1581[0m
+[0mPOST /api/v1/employees [31m500 [0m4.574 ms - 1581[0m
